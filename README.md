@@ -16,7 +16,7 @@ I enjoy turning complex data into meaningful insights and building predictive mo
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HichamBouchtib&show_icons=true&theme=dark)
 
 ---
 
