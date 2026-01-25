@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Hamza Hafdaoui!
 
-<!--
-**HichamBouchtib/HichamBouchtib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 AI Engineer | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about leveraging the power of artificial intelligence and machine learning to solve real-world problems.  
+I enjoy turning complex data into meaningful insights and building predictive models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills
+- Python, SQL
+- Machine Learning & Deep Learning
+- Data Analysis & Visualization
+- Statistics
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+### 🔗 Connect with me
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your@email.com
