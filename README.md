@@ -2,13 +2,13 @@
 
 ## 👨‍💻 AI Agent Engineer | LLM-based Multi-Agent-System Researcher
 
-I'm passionate about leveraging the power of artificial intelligence and machine learning to solve real-world problems.  
-I enjoy turning complex data into meaningful insights and building predictive models.
+I'm passionate about leveraging the power of cooperative artificial intelligence agents to solve real-world problems.  
+I enjoy turning complex data into meaningful insights and building AI Agents.
 
 ---
 
 ### 🔧 Skills
-- Python, SQL
+- Python, JavaScript
 - Machine Learning & Deep Learning
 - Data Analysis & Visualization
 - Statistics
