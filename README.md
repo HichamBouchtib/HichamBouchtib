@@ -22,7 +22,7 @@ I enjoy turning complex data into meaningful insights and building AI Agents.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hichambouchtib&theme=dark&layout=compact)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hichambouchtib&theme=dark)
 <!--END_SECTION:waka-->
 
 ## 🛠️ Languages and Tools I use
