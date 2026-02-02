@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hicham Bouchti
+# Hi there 👋 I'm Hicham Bouchtib
 
 ## 👨‍💻 AI Agent Engineer | LLM-based Multi-Agent-System Researcher
 
